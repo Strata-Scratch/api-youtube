@@ -9,6 +9,7 @@ ___
 ## Video Links
 Here are the video tutorials showing you how to build the entire python script
 - [Part 1: Working with the Youtube API](https://youtu.be/wqBFgaMgFQA)
+- [Part 2: Uploading your data to a database](https://www.youtube.com/watch?v=77IVf0zgmwI)
 
 Follow my [Youtube channel here](https://www.youtube.com/channel/UCW8Ews7tdKKkBT6GdtQaXvQ) for more data science resources. We cover a lot of coding techniques in both python and SQL.
 
